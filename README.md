@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Priom</h1>
+<h1 align="left">Hi, I'm Priom👋</h1>
 <h3 align="left">A passionate Full-stack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.qVV9EeLdtJ7eG8AjNdDQeQAAAA?pid=ImgDet&rs=1">
 
