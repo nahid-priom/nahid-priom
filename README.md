@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-priom&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-priom" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://resplendent-faun-b29e49.netlify.app/](https://resplendent-faun-b29e49.netlify.app/)
 
