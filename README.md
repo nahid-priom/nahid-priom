@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://resplendent-faun-b29e49.netlify.app/](https://resplendent-faun-b29e49.netlify.app/)
+- 👨‍💻 All of my projects are available at https://peaceful-bavarois-f99c71.netlify.app/
 
 - 💬 Ask me about **Web App, MERN**
 
