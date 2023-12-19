@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-priom&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-priom" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at (https://nahid-ferdous-priom.netlify.app/)
 
