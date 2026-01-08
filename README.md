@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at (https://nahid-ferdous-priom.netlify.app/)
+- 👨‍💻 All of my projects are available at ( 👇
+https://nahidpriom.online)
 
 - 💬 Ask me about **Web App, MERN**
 
